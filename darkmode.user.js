@@ -4,8 +4,8 @@
 // @version      1.0.1
 // @description  Make messenger great again etc.
 // @author       Simon
-// @updateURL    https://raw.githubusercontent.com/simon-nystrom/messenger-dark/master/darkmode.js
-// @downloadURL    https://raw.githubusercontent.com/simon-nystrom/messenger-dark/master/darkmode.js
+// @updateURL    https://raw.githubusercontent.com/simon-nystrom/messenger-dark/master/darkmode.user.js
+// @downloadURL  https://raw.githubusercontent.com/simon-nystrom/messenger-dark/master/darkmode.user.js
 // @match        https://www.messenger.com/*
 // @grant        GM_addStyle
 // ==/UserScript==
