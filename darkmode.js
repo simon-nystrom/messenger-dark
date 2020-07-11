@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Messenger dark mode
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Make messenger great again etc.
 // @author       Simon
+// @updateURL    https://raw.githubusercontent.com/simon-nystrom/messenger-dark/master/darkmode.js
 // @match        https://www.messenger.com/*
 // @grant        GM_addStyle
 // ==/UserScript==
