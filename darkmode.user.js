@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Messenger dark mode
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
+// @version      1.0.2
 // @description  Make messenger great again etc.
 // @author       Simon
 // @updateURL    https://raw.githubusercontent.com/simon-nystrom/messenger-dark/master/darkmode.user.js
@@ -34,6 +34,7 @@
     GM_addStyle('._2xhi { background: #313131 !important; }');
     GM_addStyle('._3oh- { color: black !important; }');
     GM_addStyle('._1p1v { color: white !important; }');
+    GM_addStyle('._8rsr { fill: #313131 !important; }');
 
 
 })();
